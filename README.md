@@ -56,6 +56,3 @@ For more information and detailed documentation, please refer to the [documentat
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-This README.md file provides a brief overview of the Cute Robot Voice package, installation instructions, usage examples, links to documentation, and license information. Feel free to customize it further according to your package's specifics and requirements. If you have any further questions or need assistance, feel free to ask!
