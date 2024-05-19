@@ -12,42 +12,15 @@ pip install cute-robot-voice
 
 ## Usage
 
-### Generating Cute Robot Voice
-
-To generate a cute robot voice from text, use the `generate_speech` function:
 
 ```python
-from cute_robot_voice import generate_speech
+from cute_robot_voice import speak
 
-# Generate speech
 text = "Hello, I am a cute robot."
-speech = generate_speech(text)
+
+speak(text)
 ```
 
-### Applying Cute Robot Effect and Playing
-
-To apply the cute robot effect and play the generated voice, use the `apply_and_play_effect` function:
-
-```python
-from cute_robot_voice import apply_and_play_effect
-
-# Apply cute robot effect and play
-apply_and_play_effect(speech)
-```
-
-### Additional Effects
-
-You can also apply individual effects separately:
-
-```python
-from cute_robot_voice import apply_cute_robot_effect, play_sound
-
-# Apply cute robot effect
-cute_robot_voice = apply_cute_robot_effect(speech)
-
-# Play the cute robot voice
-play_sound(cute_robot_voice)
-```
 
 ## Documentation
 
